@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="ptv_textColor" format="color"/>
+    <attr name="ptv_textSize" format="dimension"/>
+    <attr name="ptv_thumWidth" format="dimension"/>
+
+    <declare-styleable name="ProgressTextView">
+        <attr name="ptv_textColor" />
+        <attr name="ptv_textSize" />
+        <!--thumb的宽-->
+        <attr name="ptv_thumWidth"/>
+    </declare-styleable>
+</resources>

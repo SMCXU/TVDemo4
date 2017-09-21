@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:clipToPadding="false"
+    android:clipChildren="false"
+    android:layout_gravity="center"
+    android:gravity="center"
+    tools:context="com.example.zlq_pc.tvdemo4.ListDemoActivity">
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="80dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="80dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="80dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="80dp"
+        android:layout_height="100dp" />
+    <ImageView
+        android:src="@mipmap/ic_launcher"
+        android:layout_width="80dp"
+        android:layout_height="100dp" />
+</LinearLayout>
